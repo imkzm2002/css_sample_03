@@ -1,0 +1,49 @@
+@charset "UTF-8";
+body {
+    background-color: #ffd700;
+}
+
+#wrap {
+    width: 960px;
+    margin: auto;
+    background-color: #ffff00;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+}
+
+header p {
+    font-family: "Reggae One", system-ui;
+}
+
+nav {
+  padding: 8px 40px;
+  background-color: #000000;
+  color: #ffff00;
+}
+nav p {
+    font-family: "Reggae One", system-ui;
+}
+
+main{
+  padding: 40px;
+  height : 400px;
+}
+
+main p {
+  font-size: 20px;
+  font-weight: normal;
+  font-family: "Reggae One", system-ui;
+}
+
+footer {
+  padding: 40px;
+  height: 40px;
+  background-color : #000000;
+  color: #ffff00;
+}
+footer p {
+    font-family: "Reggae One", system-ui;
+}
